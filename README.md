@@ -4,7 +4,7 @@ Analisando os Dados do Airbnb da cidade de Londres.
 
 Extração dos Dados: http://insideairbnb.com/get-the-data/
 
-Aplicação das Ferramentas:
+Aplicação das Ferramentas utilizando a linguagem Python:
 * Pandas
 * Matplotlib
 * Seaborn
